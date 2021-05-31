@@ -9,7 +9,7 @@
       <h1>Register</h1>
       <div id="error_msg"></div>
 	  <div>
-	 	<input type="text" name="username" placeholder="Username" id="username" >
+	 	<input type="text" name="username" placeholder="Username or Mobile" id="username" >
 	    <span></span>
 	  </div>
 	  <div>
