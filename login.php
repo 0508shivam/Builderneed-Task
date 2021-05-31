@@ -13,7 +13,7 @@
  <form id="register_form" method="post">
       <h1>Login</h1>
 	  <div>
-	 	<input type="text" name="username" placeholder="Username" id="username" >
+	 	<input type="text" name="username" placeholder="Username or Mobile" id="username" >
 	    <span></span>
 	  </div>
 	  <div>
